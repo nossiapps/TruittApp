@@ -1,0 +1,469 @@
+/* MY STYLES */
+
+.ui-page {
+  background-image: url(../images/bg2.jpg);
+    background-size: cover;
+}
+
+#container-1 .ui-btn {
+    height: 40px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 40px;
+    font-size: 40px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    background-color: #9FBA67;
+    color: white;
+    -webkit-transition: width .5s, border-radius .2s, background-color .5s;
+    -o-transition: width .5s, border-radius .2s, background-color .5s;
+    -ms- transition: width .5s, border-radius .2s, background-color .5s;
+    -moz- transition: width .5s, border-radius .2s, background-color .5s;
+    transition: width .5s, border-radius .2s, background-color .5s;
+    
+    
+}
+
+#container-1 .ui-btn:active {
+    background-color: #D3FF69;
+        border-radius: 20px;
+    width: 70%;
+ 
+}
+
+
+#container-2 .ui-btn {
+    height: 40px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 40px;
+    font-size: 40px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    font-size: 40px;
+    background-color: #E4D269;
+        color: white;
+    -webkit-transition: width .5s, border-radius .2s, background-color .5s;
+    -o-transition: width .5s, border-radius .2s, background-color .5s;
+    -ms- transition: width .5s, border-radius .2s, background-color .5s;
+    -moz- transition: width .5s, border-radius .2s, background-color .5s;
+    transition: width .5s, border-radius .2s, background-color .5s;
+
+}
+#container-2 .ui-btn:active {
+    background-color: #FFE566;
+        border-radius: 20px;
+        width: 70%;
+
+}
+
+
+#container-3 .ui-btn {
+    height: 40px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 40px;
+    font-size: 40px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    font-size: 40px;
+    background-color:#88C8CF;
+        color: white;
+    -webkit-transition: width .5s, border-radius .2s, background-color .5s;
+    -o-transition: width .5s, border-radius .2s, background-color .5s;
+    -ms- transition: width .5s, border-radius .2s, background-color .5s;
+    -moz- transition: width .5s, border-radius .2s, background-color .5s;
+    transition: width .5s, border-radius .2s, background-color .5s;
+}
+#container-3 .ui-btn:active {
+    background-color: #83F6FF;
+        border-radius: 20px;
+    width: 70%;
+
+}
+
+
+#container-4 .ui-btn {
+    height: 50px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 40px;
+    font-size: 40px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    font-size: 40px;
+    background-color: #E8954A;
+        color: white;
+    -webkit-transition: width .5s, border-radius .2s, background-color .5s;
+    -o-transition: width .5s, border-radius .2s, background-color .5s;
+    -ms- transition: width .5s, border-radius .2s, background-color .5s;
+    -moz- transition: width .5s, border-radius .2s, background-color .5s;
+    transition: width .5s, border-radius .2s, background-color .5s;
+    
+
+}
+#container-4 .ui-btn:active {
+    background-color: #FF9136;
+    border-radius: 20px;
+        width: 70%;
+
+}
+
+
+#container-v1 .ui-btn {
+    height: 55px;
+    font-size: 30px;
+    background-color: #9FBA67;
+    color: white;
+        line-height: 55px;
+    margin-top: 175px;
+
+    -webkit-transition: background-color .5s;
+    -o-transition: background-color .5s;
+    -ms- transition: background-color .5s;
+    -moz- transition: background-color .5s;
+    transition: background-color .5s;
+   
+}
+
+#container-v1 .ui-btn:active {
+    background-color: #D3FF69;
+    
+        
+}
+
+#container-v2 .ui-btn {
+    height: 55px;
+    font-size: 30px;
+    background-color: #E4D269;
+    color: white;
+        line-height: 55px;
+
+    -webkit-transition: background-color .5s;
+    -o-transition: background-color .5s;
+    -ms- transition: background-color .5s;
+    -moz- transition: background-color .5s;
+    transition: background-color .5s;
+    
+}
+
+#container-v2 .ui-btn:active {
+    background-color: #FFE566;
+    
+    
+}
+
+#container-v3 .ui-btn {
+    height: 55px;
+    font-size: 30px;
+    background-color:#88C8CF ;
+    color: white;
+    line-height: 55px;
+    -webkit-transition: background-color .5s;
+    -o-transition: background-color .5s;
+    -ms- transition: background-color .5s;
+    -moz- transition: background-color .5s;
+    transition: background-color .5s;
+}
+
+#container-v3 .ui-btn:active {
+    background-color: #83F6FF;
+        
+    
+}
+
+#container-a1 .ui-btn{
+    margin-left: auto;
+    margin-right: auto;
+    height: 55px;
+    width: 80%;
+    font-size: 30px;
+    background-color: #9FBA67;
+    color: white;
+        line-height: 55px;
+
+    -webkit-transition: width .5s, border-radius .2s, background-color .5s;
+    -o-transition: width .5s, border-radius .2s, background-color .5s;
+    -ms- transition: width .5s, border-radius .2s, background-color .5s;
+    -moz- transition: width .5s, border-radius .2s, background-color .5s;
+    transition: width .5s, border-radius .2s, background-color .5s;
+   
+}
+
+#container-a1 .ui-btn:active {
+    background-color: #D3FF69;
+    border-radius: 20px;
+    width: 70%;
+    
+        
+}
+
+#container-a2 .ui-btn {
+    margin-left: auto;
+    margin-right: auto;
+    height: 55px;
+    width: 80%;
+    font-size: 30px;
+    background-color: #E4D269;
+    color: white;
+        line-height: 55px;
+
+   -webkit-transition: width .5s, border-radius .2s, background-color .5s;
+    -o-transition: width .5s, border-radius .2s, background-color .5s;
+    -ms- transition: width .5s, border-radius .2s, background-color .5s;
+    -moz- transition: width .5s, border-radius .2s, background-color .5s;
+    transition: width .5s, border-radius .2s, background-color .5s;
+    
+}
+
+#container-a2 .ui-btn:active {
+    background-color: #FFE566;
+    border-radius: 20px;
+    width: 70%;
+    
+    
+}
+
+#container-a3 .ui-btn {
+    margin-left: auto;
+    margin-right: auto;
+    height: 55px;
+    width: 80%;
+    font-size: 30px;
+    background-color:#88C8CF ;
+    color: white;
+    line-height: 55px;
+    -webkit-transition: width .5s, border-radius .2s, background-color .5s;
+    -o-transition: width .5s, border-radius .2s, background-color .5s;
+    -ms- transition: width .5s, border-radius .2s, background-color .5s;
+    -moz- transition: width .5s, border-radius .2s, background-color .5s;
+    transition: width .5s, border-radius .2s, background-color .5s;
+}
+
+#container-a3 .ui-btn:active {
+    background-color: #83F6FF;
+    border-radius: 20px;
+    width: 70%;
+        
+    
+}
+
+
+.ui-collapsible {
+   width: 80%;
+    
+    
+    -webkit-transition: width .5s, border-radius .5s, background-color .5s;
+    -o-transition: width .5s, border-radius .5s, background-color .5s;
+    -ms- transition: width .5s, border-radius .5s, background-color .5s;
+    -moz- transition: width .5s, border-radius .5s, background-color .5s;
+    transition: width .5s, border-radius .5s, background-color .5s;
+}
+
+.ui-collapsible:active {
+    width: 90%;
+    border-radius: 20px;
+    
+}
+
+/* this is notes */ 
+
+#container-m1 .ui-btn {
+    
+    height: 50px;
+    font-size: 40px;
+    background-color: #F79832;
+    color: white;
+    margin-top: 50px;
+  
+}
+#container-m1 .ui-btn:active {
+    background-color: #FBB369;
+}
+
+#container-m2 .ui-btn {
+    
+    height: 55px;
+    font-size: 35px;
+    background-color: #D91965;
+        color: white;
+    line-height: 55px;
+
+}
+#container-m2 .ui-btn:active {
+    background-color: #FF3E8D;
+}
+#container-m3 .ui-btn {
+    
+    height: 50px;
+    font-size: 40px;
+    background-color:#2DBED7 ;
+        color: white;
+
+}
+#container-m3 .ui-btn:active {
+    background-color: #40EDFF;
+}
+
+#container-m4 .ui-btn {
+    
+    height: 50px;
+    font-size: 40px;
+    background-color: #67B364;
+    color: white;
+  
+}
+#container-m4 .ui-btn:active {
+    background-color: #9FEA9B;
+}
+
+#container-m5 .ui-btn {
+    
+    height: 55px;
+    font-size: 35px;
+    background-color: #D2D03B;
+        color: white;
+    line-height: 55px;
+    
+}
+
+#container-m5 .ui-btn:active {
+    background-color: #FFF651;
+    
+}
+ 
+
+#mapContainer {
+    height: 250px;
+    width: 450px;
+    margin: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+background-image: url(../images/map.jpg);
+    background-size: cover;
+    border-style: solid;
+    border-color: white;
+}
+
+.socialIcons {
+    height: 50px;
+    width: 135px;
+    margin-left: auto;
+    margin-right: auto;
+    
+        margin-top: 15px;
+
+    
+}
+
+#instaIcon {
+    height: 35px;
+    width: 35px;
+    background-image: url(../images/whiteInsta.png);
+    background-size: cover;
+        float: left;
+    margin-right: 10px;
+    -webkit-transition: opacity .3s;
+    -o-transition: opacity .3s;
+    -ms- transition: opacity .3s;
+    -moz- transition: opacity .3s;
+    transition: opacity .3s;
+
+}
+
+#instaIcon:active {
+    opacity: .5;
+}
+#twitterIcon{
+    height: 37px;
+    width: 37px;
+    background-image: url(../images/whiteTwitter.png);
+    background-size: 36px 36px;
+
+    
+        float: left;
+    margin-right: 10px;
+    -webkit-transition: opacity .3s;
+    -o-transition: opacity .3s;
+    -ms- transition: opacity .3s;
+    -moz- transition: opacity .3s;
+    transition: opacity .3s;
+    
+}
+
+#twitterIcon:active {
+    opacity: .5;
+}
+
+
+#fbIcon {
+    height: 33px;
+    width: 33px;
+    background-image: url(../images/whiteFB.png);
+    background-size: cover;
+
+        float: left;
+    margin-right: 10px;
+    -webkit-transition: opacity .3s;
+    -o-transition: opacity .3s;
+    -ms- transition: opacity .3s;
+    -moz- transition: opacity .3s;
+    transition: opacity .3s;
+
+}
+
+#fbIcon:active {
+    opacity: .5;
+}
+
+#topLogoContainer {
+    height: 250px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#topLogo {
+    height: 250px;
+    width: 100%;
+    background-image: url(../images/animalPic1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    line-height: 235px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+}
+
+#logoIcon {
+    height: 15px;
+    width: 15px;
+    background-image: url(../images/companyLogo.png);
+    background-size: 15px 15px;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
